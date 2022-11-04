@@ -11,5 +11,4 @@ Lucifer is a immortal spyware developed by Haries Palaniappan, Like Pegasus is a
 ![](https://qtox.github.io/assets/imgs/logo_main.png)
 
 # My Tox ID : 47B8F3A1AA8D8C719D70EF313CFB51C978AC6D1126B691B825A4B49A5252F10F4EA59580C663
-
-      ![](https://github.com/haries-dev/Project-Lucifer/blob/main/contactme_on_QTOX.png)
+![](https://github.com/haries-dev/Project-Lucifer/blob/main/contactme_on_QTOX.png)
